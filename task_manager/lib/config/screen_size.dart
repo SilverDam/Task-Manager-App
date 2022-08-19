@@ -1,0 +1,7 @@
+
+
+
+
+
+
+var webScreenSize = 600;
